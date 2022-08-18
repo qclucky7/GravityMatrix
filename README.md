@@ -4,7 +4,6 @@
 
 <p align="center">
     <img height="170" src = "https://github-readme-stats.vercel.app/api?username=qclucky7&show_icons=true" align='left'>
-    <img height="170" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qclucky7&layout=compact&langs_count=7"  align='left'>
 </p>
 
 <!--
