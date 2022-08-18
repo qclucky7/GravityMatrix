@@ -3,12 +3,12 @@
 
 
 <p align="center">
-    <img height="170" src = "https://github-readme-stats.vercel.app/api?username=GravityMatrix&show_icons=true" align='left'>
-    <img height="170" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GravityMatrix&layout=compact&langs_count=7"  align='left'>
+    <img height="170" src = "https://github-readme-stats.vercel.app/api?username=qclucky7&show_icons=true" align='left'>
+    <img height="170" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qclucky7&layout=compact&langs_count=7"  align='left'>
 </p>
 
 <!--
-**GravityMatrix/GravityMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qclucky7/qclucky7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
